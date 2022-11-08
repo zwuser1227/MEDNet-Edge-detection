@@ -24,9 +24,9 @@ The folder contains model files (model.py)<br/>
 training files (train.py)<br/>
 testing files (test.py) and other related files (cfgs ...). 
 ## Result
-BSDS：Test results of this model on BSDS500 data set.<br>
-NYUD：Test results of this model on NYUD data set.<br>
-BIPED：Test results of this model on BIPED data set.<br>
+BSDS：Test results of this model on BSDS500 data set.<br/>
+NYUD：Test results of this model on NYUD data set.<br/>
+BIPED：Test results of this model on BIPED data set.<br/>
 Other data and procedures will be made public after the paper is received.
 
 ## Datsets
@@ -38,11 +38,11 @@ The augmented BSDS500, PASCAL VOC, and NYUD datasets can be downloaded with:<br/
   wget http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
 ```
 
-We use the links in [DexiNed](https://github.com/xavysp/DexiNed) Repository (really thanks for that).
-We used the first version before the second version came out.
+We use the links in [DexiNed](https://github.com/xavysp/DexiNed) Repository (really thanks for that).<br/>
+We used the first version before the second version came out.<br/>
 MBIPED Dataset is Here:
 ```
-	https://drive.google.com/drive/folders/1lZuvJxL4dvhVGgiITmZsjUJPBBrFI_bM?usp=sharing
+  https://drive.google.com/drive/folders/1lZuvJxL4dvhVGgiITmZsjUJPBBrFI_bM?usp=sharing
 ```
 
 Test results on dataset MBIPED:
@@ -52,8 +52,8 @@ Test results on dataset MBIPED:
 | -------------- | ---------| -------- | -------- |
 | [RCF](https://github.com/yun-liu/rcf)      | `.849` | `.861` | `.906` |
 | [BDCN](https://github.com/pkuCactus/BDCN)     | `.890` | `.899` | `.934` |
-| DexiNed-f(https://github.com/xavysp/DexiNed)| `.895` | `.900` | `.927` |
-| DexiNed-a(https://github.com/xavysp/DexiNed)| `.893` | `.897` | `.940` |
+| [DexiNed-f](https://github.com/xavysp/DexiNed)  | `.895` | `.900` | `.927` |
+| [DexiNed-a](https://github.com/xavysp/DexiNed)  | `.893` | `.897` | `.940` |
 | MEDNet-a-SS| `.896` | `.900` | `.920` |
 
 </center>
