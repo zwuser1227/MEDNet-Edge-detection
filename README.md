@@ -1,12 +1,18 @@
 # MEDNet
 
 This repository contains the Implementation details of the paper "Edge detection networks inspired by neural mechanisms of selective attention in biological visual cortex".
-The address of the paper is at ()
+The address of the paper is at (https://www.frontiersin.org/articles/10.3389/fnins.2022.1073484/full)
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 ```
-
+@article{zhangedge,
+  title={Edge detection networks inspired by neural mechanisms of selective attention in biological visual cortex},
+  author={Zhang, Zhenguang and Lin, Chuan and Qiao, Yakun and Pan, Yongcai},
+  journal={Frontiers in Neuroscience},
+  pages={2022},
+  publisher={Frontiers}
+}
 ```
 ## Get Start
 1、Download our code.<br/>
